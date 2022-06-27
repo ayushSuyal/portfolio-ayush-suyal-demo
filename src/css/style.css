@@ -1,0 +1,141 @@
+/* Navbar css  */
+html
+{
+    scroll-behavior: smooth;
+}
+nav ul li
+{
+margin-left: 30px;
+}
+
+.navv
+{
+    margin-left: 100px;
+}
+
+/* NAVBAR CSS ENDS */
+
+
+/* SECTION 1 CSS RIGHT BLOCK */
+
+.section1
+{
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    margin: auto !important;
+     color: rgb(80, 77, 77);
+}
+
+/* SECTION 2 CSS LEFT BLOCK */
+
+.section2
+{
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    margin:auto !important;
+    color: rgb(75, 74, 74);
+}
+
+#row2
+{
+    background-color: #b4b0ab;
+}
+
+/* SECTION 3  left block*/
+
+.section3
+{
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    margin-top: 100px !important;
+    color: rgb(75, 74, 74);
+}
+
+.section3r h5
+{
+    margin-top: 40px;
+    color: rgb(75, 74, 74);
+}
+
+/* section 4 css  */
+.margin-y
+{
+    margin-top: 60px;
+}
+
+.margin-yy
+{
+    margin-top:200px;
+}
+/* section 4 css ends  */
+
+/* section 5 css */
+#section5
+{
+    margin-top:70px;
+}
+
+.cardd
+{
+    border-radius: 4px;
+    color:rgb(75, 74, 74);
+}
+
+
+.row5 
+{
+   
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    text-align: center;
+    
+}
+.cl
+{
+    background-color: rgb(75, 74, 74);
+}
+
+/* section 6  */
+
+.center
+{
+    justify-content: center;
+    justify-items: center;
+    color:rgb(75, 74, 74);
+    
+}  
+
+#formm
+{
+    margin: auto;
+}
+
+.btnn:hover
+{
+    background-color: black !important;
+}
+
+/* #section7
+{
+    border-top:3px solid black;
+} */
+
+#nav
+{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+/* css for button loader */
+.loader {
+    background-color: #04AA6D; /* Green background */
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 12px 16px; /* Some padding */
+    font-size: 16px /* Set a font size */
+  }
